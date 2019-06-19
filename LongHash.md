@@ -82,18 +82,18 @@ Attachment 1: Notarized Certificate of Incorporation of LongHash Limited
 
 
 ## Development Roadmap
-We present our development roadmap and past achievements by the following attachments. 
+We present our development roadmap and past achievements by the following attachments. All Attachments could be found on Google Drive:https://drive.google.com/open?id=1sOXccR-8wvDBzEp0zde9Hjydr1GwaUky 
 
-### Incubation As A Service Timeline（Attachment 2): 
+* Incubation As A Service Timeline（Attachment 1): 
 An example of our incubcation program timeline
 
-### Marketing & Community Building Milestone   (Attachment 3 & 4): 
+* Marketing & Community Building Milestone   (Attachment 2 & 3): 
 This excel shows our historical statistics of the events and meetups hosted/co-hosted by LongHash.
 
-### LongHash Corporate Innovation Program  (Attachment 5):
+* LongHash Corporate Innovation Program  (Attachment 4):
 Our drafed structure of LongHash Corporate Innvation Program. We plan to start it from September 2019.
 
-### Staking As A Service (Attachment 6):
+* Staking As A Service (Attachment 5):
 The Introdcution of LongHash's Staking Partner, HashQuark
 
 
