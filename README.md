@@ -1,7 +1,7 @@
 # LongHash Global Incubator
 
 ## Project Description
-Founded in Febrauary 2018, LongHash is a global incubator. Currently we have 6 offices covering Asia and Europe, inculding Shanghai, Hong Kong, Singapore, Tokyo, Berlin and Zug. LongHash’s mission is to accelerate the development and understanding of blockchain technology. 
+Founded in February 2018, LongHash is a global incubator. Currently we have 6 offices covering Asia and Europe, inculding Shanghai, Hong Kong, Singapore, Tokyo, Berlin and Zug. LongHash’s mission is to accelerate the development and understanding of blockchain technology. 
 
 
 ### Incubation As A Service
