@@ -40,10 +40,10 @@ LongHash, together with our Staking Partner, HashQuark, are planning to provide 
 
 ## Team Website	
 * https://www.longhash.com
-* https://www.longhash.com.sg/
-* https://jp.longhash.com/
-* https://incubator.longhash.com/
-* https://www.longhash.ch/
+* https://www.longhash.com.sg
+* https://jp.longhash.com
+* https://incubator.longhash.com
+* https://www.longhash.ch
 
 
 ## Legal Structure 
