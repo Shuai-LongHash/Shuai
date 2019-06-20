@@ -91,7 +91,7 @@ An example of our incubcation program timeline
 This excel shows our historical statistics of the events and meetups hosted/co-hosted by LongHash.
 
 * LongHash Corporate Innovation Program (Attachment 3):
-Our drafed structure of LongHash Corporate Innvation Program. We plan to start it from September 2019.
+Our drafted structure of LongHash Corporate Innvation Program. We plan to start it from September 2019.
 
 * Staking As A Service (Attachment 4):
 The Introdcution of LongHash's Staking Partner, HashQuark
