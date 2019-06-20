@@ -87,13 +87,13 @@ We present our development roadmap and past achievements by the following attach
 * Incubation As A Service Timeline（Attachment 1): 
 An example of our incubcation program timeline
 
-* Marketing & Community Building Milestone   (Attachment 2 & 3): 
+* Marketing & Community Building Log (Attachment 2): 
 This excel shows our historical statistics of the events and meetups hosted/co-hosted by LongHash.
 
-* LongHash Corporate Innovation Program  (Attachment 4):
+* LongHash Corporate Innovation Program (Attachment 3):
 Our drafed structure of LongHash Corporate Innvation Program. We plan to start it from September 2019.
 
-* Staking As A Service (Attachment 5):
+* Staking As A Service (Attachment 4):
 The Introdcution of LongHash's Staking Partner, HashQuark
 
 
