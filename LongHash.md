@@ -45,8 +45,7 @@ LongHash, together with our Staking Partner, HashQuark, are planning to provide 
 
 
 ## Legal Structure 
-LongHash Limited owns 70% of each LongHash offices. 
-Attachment 1: Notarized Certificate of Incorporation of LongHash Limited
+LongHash Limited (incorporated in Hong Kong) owns 70% of each LongHash offices. 
 
 
 ## Team's experience
