@@ -29,7 +29,7 @@ LongHash firmly believes that blockchain adoption for traditional corporates wou
 LongHash, together with our Staking Partner, HashQuark, are planning to provide Staking As A Service for world famous public chains. HashQuark, member of HashKey Group, is a service provider focusing on public chains built upon the likes of PoS and DPoS. With HashQuark, token holders simply need to store tokens into their accounts and receive staking rewards in return. HashQuark Open Staking Platform, part of HashQuark, has entered into cooperation with the world’s leading crypto wallets and exchanges, offering staking services to tokens holders and institutional investors in a secure and stable way. We would like to start from being Polkadot’s validator.
 
 
-## Team members
+## Team Members
 * Co-Founders: Yanfeng Chen, Ming Gong, Emily Parker
 * CEO of LongHash Singapore: Emma Cui
 * CEO of LongHash Japan: Chris Dai
@@ -81,7 +81,7 @@ LongHash Limited (incorporated in Hong Kong) owns 70% of each LongHash offices.
 
 
 ## Development Roadmap
-We present our development roadmap and past achievements by the following attachments. All Attachments could be found on Google Drive:https://drive.google.com/open?id=1sOXccR-8wvDBzEp0zde9Hjydr1GwaUky 
+We present our development roadmap and past achievements by the following attachments. All attachments shall be found on Google Drive:https://drive.google.com/open?id=1sOXccR-8wvDBzEp0zde9Hjydr1GwaUky 
 
 * Incubation As A Service Timeline（Attachment 1): 
 An example of our incubcation program timeline
@@ -97,7 +97,7 @@ The Introdcution of LongHash's Staking Partner, HashQuark
 
 
 ## Additional Information
-* LongHash Incubation program is officially recognized and supported by the Singapore government through Enterprise Singapore. Incubatees who are part of LongHash’s Hatch Program (Polkawallet, Polkascan, Plasm) will be eligible for various government grants if they incorporate in Singapore.
+* LongHash Incubation Program is officially recognized and supported by the Singapore government through Enterprise Singapore. Incubatees who are part of LongHash’s Hatch Program (Polkawallet, Polkascan, Plasm) will be eligible for various government grants if they incorporate in Singapore.
 
 * LongHash has never applied for Web3 grant. 
  
