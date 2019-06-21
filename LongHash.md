@@ -14,11 +14,11 @@ With our rich experience in building DEX, hardware wallet, rating platform, cust
 LongHash is very impressed with the usability and flexibility of Polkadot/ Substrate, and believe we can partner up to attract startups to utilize blockchain technology through Polkadot/ Substrate. We aim to provide long-term IaaS for Polkadot/ Substrate through our structured incubation program and to boost the adoption for Polkadot/ Substrate. 
 
 ### Marketing & Community Building
-LongHash has a professional team regarding Marketing and Community Building. Our offices in Shanghai, Singapore, Tokyo and Berlin have strong local resources and are fully experiences in hosting meetups, workshops, conferences and hackathons. 
+LongHash has a professional team regarding Marketing and Community Building. Our offices in Shanghai, Singapore, Tokyo and Berlin have strong local resources and are fully experienced in hosting meetups, workshops, conferences and hackathons. 
 
 LongHash Singapore office invited representatives from Web3 Foundation for a speaking opportunity on “No Block is an Island - Joining Chains in Enterprises” during our first DLT Compass conference organized by LongHash on 7th-8th June. There were over 300 attendees from a variety of industries with unprecedented concentration from enterprises, embracing a practical yet optimistic stance on blockchain technology. There were also a significant number of attendees from different technology providers, such as Huawei, IBM and Singtel. We also had attendees from the different Government bodies (Monetary Authority of Singapore, Enterprise Singapore, IMDA which oversees technology and Innovation in Singapore) as well as educators from a number of institutions (INSEAD, National University of Singapore, Nanyang Technology University, SUSS, ESSEC business school).
 
-LongHash Shanghai Team just co-hosted a Meet-Up for Web3 and its ecosystem partners in Shanghai on 12th June. There were more than 200 attendants, 7000 online participants joined the Shanghai Meet-Up, with more than 50,000 media exposure during the 2-week-preparation. 
+LongHash Shanghai Team just co-hosted a Meet-Up together with Web3 and its ecosystem partners in Shanghai on 12th June. There were more than 200 attendants, 7000 online participants joined the Shanghai Meet-Up, with more than 50,000 media exposure during the 2-week-preparation. 
 
 In the future, LongHash is very confident that we could continue as Web3 and its ecosystem’s great marketing and community partner, by providing professional and high-end marketing and PR services, so as to help Web3 and its ecosystem projects to build the community all over the world. We would use the grant to help projects with fundraising.
 
